@@ -1,2 +1,2 @@
 # FacebookCrawler
-Crawl Facebook posts content, summary and comments on wall by Selenium.
+這篇文章可以爬下Facebook各粉絲專頁的貼文與留言。
